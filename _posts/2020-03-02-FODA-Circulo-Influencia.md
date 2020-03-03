@@ -18,7 +18,11 @@ Mis debilidades son:
 
 1. Retraido
  + Somatico
+     -Empequeñerce fisicamente
+     -Poco contacto visual
+     -Pocas palabras
  + Emoción
+     -Ansiedad
 2. Timido
  + Somatico
  + Emoción
