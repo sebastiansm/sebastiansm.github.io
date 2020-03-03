@@ -30,12 +30,12 @@ Mis debilidades son:
  + Emoción
 5. Perfeccionista
  + Somatico
-   - Movimiento muscular
-    - Sudoración
-   - Hablar rápido
+     - Movimiento muscular
+     - Sudoración
+     - Hablar rápido
  + Emoción
-    - Escapar
-    - Decepción
-    - Arrepentimiento
+      - Escapar
+      - Decepción
+      - Arrepentimiento
     
 
